@@ -25,10 +25,16 @@ This project has an interactive dashboard for AirBnb listing from dataset obtain
 - **Zipcode** gives clear picture with highest revenue area
 
 ---
+## Tableau Public link
+
+[Atul's Tableau Public Link](https://public.tableau.com/app/profile/atul.keshari/viz/AirBnbfullproject_17560600696210/Dashboard1?publish=yes)
+
+---
 
 ## Dashboard Preview
 
-![AirBnb_Tableau_Dashboard]()
+![AirBnb_Tableau_Dashboard](Airbnb Listing 2016 dataset/AirBnb_TableauDashboard.jpg)
+
 
 
 
