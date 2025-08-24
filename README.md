@@ -34,7 +34,7 @@ It provides insights into pricing trends, revenue generation, and location based
 
 ## Dashboard Preview
 
-![AirBnb_Tableau_Dashboard](Airbnb Listing 2016 dataset/AirBnb_TableauDashboard.jpg)
+![AirBnb_Tableau_Dashboard](Airbnb_Listing_2016/AirBnb_TableauDashboard.jpg)
 
 
 
