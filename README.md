@@ -28,7 +28,7 @@ This project has an interactive dashboard for AirBnb listing from dataset obtain
 
 ## Dashboard Preview
 
-![AirBnb_Tableau_Dashboard]
+![AirBnb_Tableau_Dashboard]()
 
 
 
