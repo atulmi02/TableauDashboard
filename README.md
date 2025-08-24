@@ -1,5 +1,6 @@
-# Tableau Dashboard AirBnB Listing
-This project has an interactive dashboard for AirBnb listing from dataset obtained from kaggle showcasing the performance rooms.
+# Tableau Dashboard : AirBnB Listing Analysis
+An interactive dashboard analysing AirBnb listing using dataset from Kaggle.
+It provides insights into pricing trends, revenue generation, and location based analysis.
 
 ---
 
@@ -11,23 +12,23 @@ This project has an interactive dashboard for AirBnb listing from dataset obtain
 ---
 
 ## ✅ Basic Dashboard
-- Average Price on Zipcode
-- Year wise trend change of price
+- Average Price by Zipcode
+- Year-wise Price trends
 - Price over Time (Line Chart)
-- Most revenue generating Bedroom type
+- Revenue by Bedroom type
 
 ---
 
 ## 🔍 Insights Derived
 
-- **Rooms withs 1 Bedroom** has highest revenue 
-- **Steep Price change** after 1st Qtr of 2016
-- **Zipcode** gives clear picture with highest revenue area
+- Rooms with **1 Bedroom** generate the highest revenue.
+- Significant **Price change after  Q1 2016** observed.
+- **Zipcode analysis** helps identify top revenue generating areas.
 
 ---
 ## Tableau Public link
 
-[Atul's Tableau Public Link](https://public.tableau.com/app/profile/atul.keshari/viz/AirBnbfullproject_17560600696210/Dashboard1?publish=yes)
+[View the Dashboasrd Here](https://public.tableau.com/app/profile/atul.keshari/viz/AirBnbfullproject_17560600696210/Dashboard1?publish=yes)
 
 ---
 
